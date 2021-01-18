@@ -1,8 +1,23 @@
 {
-  "scripts": {
-    "server":"nodemon index.js"
-  }
+  "name": "server-express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
   "dependencies": {
     "nodemon": "^2.0.7"
-  }
+  },
+  "scripts": {
+    "server":"nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidlpc1/server-express.git"
+  },
+  "keywords": [],
+  "author": "“davidlpc1” <davilucasdlcreator@gmail.com>",
+  "license": "“MIT”",
+  "bugs": {
+    "url": "https://github.com/davidlpc1/server-express/issues"
+  },
+  "homepage": "https://github.com/davidlpc1/server-express#readme"
 }
